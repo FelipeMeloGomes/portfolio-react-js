@@ -1,0 +1,14 @@
+.container {
+    color: var(--color-text);
+    margin: 76px 10% 0 10%;
+}
+
+.projects {
+    margin-top: 37px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+    width: 100%;
+}

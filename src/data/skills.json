@@ -1,0 +1,50 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.webp"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.webp"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.webp"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.webp"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "skills/node.webp"
+    },
+    {
+        "title": "MUI 5",
+        "imageSrc": "skills/material.webp"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/git.webp"
+    },
+    {
+        "title": "Github",
+        "imageSrc": "skills/github.webp"
+    },
+    {
+        "title": "Typescript",
+        "imageSrc": "skills/typescript.webp"
+    },
+    {
+        "title": "Linux",
+        "imageSrc": "skills/linux.webp"
+    },
+    {
+        "title": "Jest",
+        "imageSrc": "skills/jest.webp"
+    },
+    {
+        "title": "Tailwind",
+        "imageSrc": "skills/tailwind.webp"
+    }
+]

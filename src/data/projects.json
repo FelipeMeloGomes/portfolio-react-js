@@ -1,0 +1,41 @@
+[
+    {
+        "title": "FM Blog",
+        "imageSrc": "projects/project.webp",
+        "description": "Criei um blog de notícias de tecnologia utilizando React para o front-end e Firebase para o backend, buscando fortalecer minhas habilidades em desenvolvimento web.",
+        "skills": [
+            "React",
+            "Vite",
+            "NPM",
+            "FireBase"
+        ],
+        "demo": "https://fm-blog-react.netlify.app/",
+        "source": "https://github.com/FelipeMelogomes/FM-Blog"
+    },
+    {
+        "title": "FM Clima",
+        "imageSrc": "projects/project.webp",
+        "description": "Desenvolvi um aplicativo de previsão do tempo para aprender a usar APIs, permitindo aos usuários descobrir o clima de qualquer cidade digitada.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Api"
+        ],
+        "demo": "https://previsaoclima.netlify.app/",
+        "source": "https://github.com/FelipeMeloGomes/FM_Clima"
+    },
+    {
+        "title": "FM Dashboard",
+        "imageSrc": "projects/project.webp",
+        "description": "Dashboard React e Material-UI5: gestão de capital e funcionários simplificada com interface intuitiva e análises estratégicas.",
+        "skills": [
+            "React",
+            "NPM",
+            "Material UI 5",
+            "React Google Charts"
+        ],
+        "demo": "https://fm-dashboard-react.netlify.app/",
+        "source": "https://github.com/FelipeMeloGomes/FM-Dashboard-React"
+    }
+]
