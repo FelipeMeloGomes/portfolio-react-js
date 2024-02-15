@@ -16,11 +16,15 @@ const Hero = () => {
                 <div className={styles.containerBtn}>
                     <Button
                         link={`https://api.whatsapp.com/send?phone=64992600637&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20Portf%C3%B3lio`}
-                        description={"Whatsapp"}
+                        imageUrl={"contact/whatsappIcon.webp"}
                     />
                     <Button
                         link={`https://www.linkedin.com/in/felipemelog/`}
-                        description={"Linkedin"}
+                        imageUrl={"contact/linkedinIcon.webp"}
+                    />
+                    <Button
+                        link={`https://github.com/FelipeMeloGomes`}
+                        imageUrl={"contact/githubIcon.webp"}
                     />
                 </div>
             </div>
