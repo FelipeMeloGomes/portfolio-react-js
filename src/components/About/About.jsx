@@ -17,6 +17,7 @@ export const About = () => {
                     src={getImageUrl("about/aboutImg.webp")}
                     alt="Me sitting with a laptop"
                     className={styles.aboutImage}
+                    loading="lazy"
                 />
                 <ul className={styles.aboutItems}>
                     <AboutItem

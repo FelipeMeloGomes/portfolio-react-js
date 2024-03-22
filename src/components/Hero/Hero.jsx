@@ -32,7 +32,6 @@ const Hero = () => {
                 className={styles.heroImg}
                 src={getImageUrl("hero/heroImage.webp")}
                 alt="Foto do perfil"
-                loading="lazy"
             />
             <div className={styles.topBlur} />
             <div className={styles.bottomBlur} />
