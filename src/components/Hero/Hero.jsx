@@ -17,14 +17,20 @@ const Hero = () => {
                     <Button
                         link={`https://api.whatsapp.com/send?phone=64992600637&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20Portf%C3%B3lio`}
                         imageUrl={"contact/whatsappIcon.webp"}
+                        altText={Whatssap}
+                        altLink={WhatssapIcon}
                     />
                     <Button
                         link={`https://www.linkedin.com/in/felipemelog/`}
                         imageUrl={"contact/linkedinIcon.webp"}
+                        altLink={LinkedinIcon}
+                        altText={Linkedin}
                     />
                     <Button
                         link={`https://github.com/FelipeMeloGomes`}
                         imageUrl={"contact/githubIcon.webp"}
+                        altText={GitHub}
+                        altLink={GitHubIcon}
                     />
                 </div>
             </div>
